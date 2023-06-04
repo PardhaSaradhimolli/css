@@ -1,0 +1,17 @@
+.redcircle{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position:relative;
+    top: 150px;
+    left: 500px;
+
+}
+.bluebox{
+    background-color: blue;
+    height: 300px;
+    width: 700px;
+
+
+}
